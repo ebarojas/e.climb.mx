@@ -1,2 +1,2 @@
-config/
-vagrant/
+.config/
+.vagrant/
